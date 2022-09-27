@@ -1,0 +1,71 @@
+ID,Description,Number of reactions,Type
+C00001,H2O; Water,4242,Background
+C00080,H+; Hydron,2558,Background
+Z00029,Mg,995,Background
+C00009,Orthophosphate; Phosphate; Phosphoric acid; Orthophosphoric acid,812,Phosphorous source
+C00011,CO2; Carbon dioxide,773,Background
+Z00030,Mn,696,Background
+Z00015,Fe,600,Background
+C00014,Ammonia; NH3,481,Nitrogen source
+Z00054,Zn,472,Background
+C00026,2-Oxoglutarate; Oxoglutaric acid; 2-Ketoglutaric acid; alpha-Ketoglutaric acid,293,Organic carbon
+C00022,Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid,244,Organic carbon
+Z00069,Diavalent Metal,243,Background
+C00028,Acceptor; Hydrogen-acceptor; A; Oxidized donor,232,Background
+C00030,Reduced acceptor; AH2; Hydrogen-donor; Donor,232,Background
+Z00055,Ca,218,Background
+Z00063,Generic FeS,215,Background
+Z00002,4Fe4S,207,Background
+C00042,Succinate; Succinic acid; Butanedionic acid; Ethylenesuccinic acid,178,Organic carbon
+Z00006,Co,175,Background
+C00033,Acetate; Acetic acid; Ethanoic acid,149,Organic carbon
+Z00001,2Fe2S,125,Background
+Z00070,Cu,111,Background
+C00058,Formate; Methanoic acid; Formic acid,95,Organic carbon
+C00048,Glyoxylate; Glyoxalate; Glyoxylic acid,78,Organic carbon
+Z00034,Ni,67,Background
+C00036,Oxaloacetate; Oxalacetic acid; Oxaloacetic acid; 2-Oxobutanedioic acid; 2-Oxosuccinic acid; keto-Oxaloacetate,66,Organic carbon
+Z00064,Mo,61,Background
+C00283,Hydrogen sulfide; Hydrogen-sulfide; H2S; Sulfide,53,Sulfur source
+C00161,2-Oxo acid; 2-Oxocarboxylate; 2-Oxocarboxylic acid; 2-Oxo carboxylate,44,Organic carbon
+C00288,HCO3-; Hydrogencarbonate; Bicarbonate; Hydrogen carbonate; Acid carbonate,32,Background
+C00071,Aldehyde; RCHO,30,Organic carbon
+C00069,Alcohol,26,Organic carbon
+C00282,Hydrogen; H2,26,Background
+C00122,Fumarate; Fumaric acid; trans-Butenedioic acid,21,Organic carbon
+C14818,Fe2+; Fe(II); Ferrous ion; Iron(2+),19,Background
+C00149,(S)-Malate; L-Malate; L-Apple acid; L-Malic acid; L-2-Hydroxybutanedioic acid; Malate; Malic acid,18,Organic carbon
+Z00067,3Fe4S,18,Background
+Z00053,W,16,Background
+C00205,hn; Light; Photon; hnu,14,Background
+Z00060,Monovalent Metal,14,Background
+C01335,ROH,13,Organic carbon
+C17023,Sulfur donor; S-donor,13,Background
+C00160,Glycolate; Glycolic acid; Hydroxyacetic acid,12,Organic carbon
+C00209,Oxalate; Oxalic acid; Ethanedioic acid,12,Organic carbon
+C00311,"Isocitrate; Isocitric acid; 1-Hydroxytricarballylic acid; 1-Hydroxypropane-1,2,3-tricarboxylic acid",12,Organic carbon
+Z00033,Na,12,Background
+C01528,Hydrogen selenide; Selenide,9,Background
+C00383,Malonate; Malonic acid; Propanedioic acid,8,Organic carbon
+C00012,Peptide,7,Background
+Z00062,V,7,Background
+C00305,Magnesium cation; Mg2+; Magnesium(2+); Magnesium ion,6,Background
+C00417,cis-Aconitate; cis-Aconitic acid,6,Organic carbon
+C14819,Fe3+; Fe(III); Ferric ion; Iron(3+),6,Background
+Z00020,Generic FeS Cluster,6,Background
+C00023,Iron,5,Background
+C01330,Sodium cation; Na+; Sodium(1+); Sodium ion,5,Background
+C01732,Mesaconate; 2-Methylfumarate; Mesaconic acid; Methylfumaric acid; (E)-2-Methyl-2-butenedioic acid,5,Organic carbon
+C06232,Molybdate,5,Background
+C00175,Cobalt ion; Cobalt(2+); Co2+; Co(II),4,Background
+C19609,Nickel(2+); Ni2+; Ni(II),4,Background
+C20679,Tungstate; Tungstic acid,3,Background
+C22155,[Fe-S] cluster scaffold protein,3,Background
+C00038,Zinc cation; Zn2+; Zn(II); Zinc ion,2,Background
+C00070,Copper,2,Background
+C00238,Potassium cation; K+; Potassium(1+); Potassium ion,2,Background
+C01127,4-Hydroxy-2-oxoglutarate; 4-Hydroxy-2-oxoglutaric acid,2,Organic carbon
+C00150,Molybdenum,1,Background
+C19806,"Propane-1,2,3-tricarboxylate; Tricarballylate",1,Organic carbon
+C00034,Manganese,,Background
+C00050,Metal,,Background

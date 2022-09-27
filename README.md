@@ -18,4 +18,6 @@ pip install pandas
 pip intall scipy
 pip install seaborn
 ```
-s
+
+Recreate figures in the paper using code in main.ipynb
+
