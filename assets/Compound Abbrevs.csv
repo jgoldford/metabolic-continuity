@@ -1,0 +1,20 @@
+Gly,C00037,Glycine
+Gln,C00064,L-Glutamine
+Asp,C00049,L-Aspartate
+PolyP,C00013,Polyphosphate (Pyrophosphate)
+PEP,C00074,Phosphoenolpyruvate
+RuBP,C01182,"D-Ribulose 1,5-bisphosphate"
+RiBP,C01151,"D-Ribose 1,5-bisphosphate"
+PRPP,C00119,5-Phospho-alpha-D-ribose 1-diphosphate
+PRA,C03090,5-Phosphoribosylamine
+GAR,C03838,5'-Phosphoribosylglycinamide
+FGAR,C04376,5'-Phosphoribosyl-N-formylglycinamide
+FGAM,C04640,5'-Phosphoribosyl-N-formylglycinamidine
+AIR,C03373,Aminoimidazole ribotide
+CAIR,C04751 ,1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate
+SAICAR,C04823,1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole
+AICAR,C04677,1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide
+FAICAR,C04734,1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide
+IMP,C00130,Inosine monophosphate
+AMP,C00020,Adenine monophosphate
+ATP,C00002,Adenine triphosphate
