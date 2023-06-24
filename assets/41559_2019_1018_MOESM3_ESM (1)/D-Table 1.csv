@@ -1,0 +1,123 @@
+Supplementary Dataset 1 - Spreadsheet D - Feasibility of steady-state production of putative proto-cells with different carbon sources and reductants - Data for generating Fig.4,,,,
+,,,,
+carbon_source,cabon_source_name,reductant,reductant_name,biomass feasibility
+C00011,CO2,C00282,H2,feasible
+C00033,Acetate,C00282,H2,feasible
+C00058,Formate,C00282,H2,feasible
+C00237,CO,C00282,H2,infeasible
+C00048,Glyoxylate,C00282,H2,feasible
+C00022,Pyruvate,C00282,H2,feasible
+C01438,Methane,C00282,H2,infeasible
+C00209,Oxalate,C00282,H2,feasible
+C00067,Formaldehyde,C00282,H2,feasible
+C00132,Methanol,C00282,H2,feasible
+C00011,CO2,C00283,Hydrogen sulfide,unknown
+C00033,Acetate,C00283,Hydrogen sulfide,feasible
+C00058,Formate,C00283,Hydrogen sulfide,feasible
+C00237,CO,C00283,Hydrogen sulfide,infeasible
+C00048,Glyoxylate,C00283,Hydrogen sulfide,feasible
+C00022,Pyruvate,C00283,Hydrogen sulfide,feasible
+C01438,Methane,C00283,Hydrogen sulfide,infeasible
+C00209,Oxalate,C00283,Hydrogen sulfide,feasible
+C00067,Formaldehyde,C00283,Hydrogen sulfide,feasible
+C00132,Methanol,C00283,Hydrogen sulfide,feasible
+C00011,CO2,C19610,Manganese (II),infeasible
+C00033,Acetate,C19610,Manganese (II),feasible
+C00058,Formate,C19610,Manganese (II),feasible
+C00237,CO,C19610,Manganese (II),infeasible
+C00048,Glyoxylate,C19610,Manganese (II),feasible
+C00022,Pyruvate,C19610,Manganese (II),feasible
+C01438,Methane,C19610,Manganese (II),infeasible
+C00209,Oxalate,C19610,Manganese (II),feasible
+C00067,Formaldehyde,C19610,Manganese (II),feasible
+C00132,Methanol,C19610,Manganese (II),feasible
+C00011,CO2,C14818,Iron (II),infeasible
+C00033,Acetate,C14818,Iron (II),feasible
+C00058,Formate,C14818,Iron (II),feasible
+C00237,CO,C14818,Iron (II),infeasible
+C00048,Glyoxylate,C14818,Iron (II),feasible
+C00022,Pyruvate,C14818,Iron (II),feasible
+C01438,Methane,C14818,Iron (II),infeasible
+C00209,Oxalate,C14818,Iron (II),feasible
+C00067,Formaldehyde,C14818,Iron (II),feasible
+C00132,Methanol,C14818,Iron (II),feasible
+C00011,CO2,C00001,Water,infeasible
+C00033,Acetate,C00001,Water,feasible
+C00058,Formate,C00001,Water,feasible
+C00237,CO,C00001,Water,infeasible
+C00048,Glyoxylate,C00001,Water,feasible
+C00022,Pyruvate,C00001,Water,feasible
+C01438,Methane,C00001,Water,infeasible
+C00209,Oxalate,C00001,Water,feasible
+C00067,Formaldehyde,C00001,Water,feasible
+C00132,Methanol,C00001,Water,feasible
+C00011,CO2,C00138,Reduced ferredoxin,infeasible
+C00033,Acetate,C00138,Reduced ferredoxin,feasible
+C00058,Formate,C00138,Reduced ferredoxin,feasible
+C00237,CO,C00138,Reduced ferredoxin,infeasible
+C00048,Glyoxylate,C00138,Reduced ferredoxin,feasible
+C00022,Pyruvate,C00138,Reduced ferredoxin,feasible
+C01438,Methane,C00138,Reduced ferredoxin,infeasible
+C00209,Oxalate,C00138,Reduced ferredoxin,feasible
+C00067,Formaldehyde,C00138,Reduced ferredoxin,feasible
+C00132,Methanol,C00138,Reduced ferredoxin,feasible
+C00011,CO2,C00126,Ferroxytochome (reduced),infeasible
+C00033,Acetate,C00126,Ferroxytochome (reduced),feasible
+C00058,Formate,C00126,Ferroxytochome (reduced),feasible
+C00237,CO,C00126,Ferroxytochome (reduced),infeasible
+C00048,Glyoxylate,C00126,Ferroxytochome (reduced),feasible
+C00022,Pyruvate,C00126,Ferroxytochome (reduced),feasible
+C01438,Methane,C00126,Ferroxytochome (reduced),infeasible
+C00209,Oxalate,C00126,Ferroxytochome (reduced),feasible
+C00067,Formaldehyde,C00126,Ferroxytochome (reduced),feasible
+C00132,Methanol,C00126,Ferroxytochome (reduced),feasible
+C00011,CO2,C00342,Thioredoxin,infeasible
+C00033,Acetate,C00342,Thioredoxin,feasible
+C00058,Formate,C00342,Thioredoxin,feasible
+C00237,CO,C00342,Thioredoxin,infeasible
+C00048,Glyoxylate,C00342,Thioredoxin,feasible
+C00022,Pyruvate,C00342,Thioredoxin,feasible
+C01438,Methane,C00342,Thioredoxin,infeasible
+C00209,Oxalate,C00342,Thioredoxin,feasible
+C00067,Formaldehyde,C00342,Thioredoxin,feasible
+C00132,Methanol,C00342,Thioredoxin,feasible
+C00011,CO2,C00051,Glutathione (reduced),feasible
+C00033,Acetate,C00051,Glutathione (reduced),feasible
+C00058,Formate,C00051,Glutathione (reduced),feasible
+C00237,CO,C00051,Glutathione (reduced),infeasible
+C00048,Glyoxylate,C00051,Glutathione (reduced),feasible
+C00022,Pyruvate,C00051,Glutathione (reduced),feasible
+C01438,Methane,C00051,Glutathione (reduced),infeasible
+C00209,Oxalate,C00051,Glutathione (reduced),feasible
+C00067,Formaldehyde,C00051,Glutathione (reduced),feasible
+C00132,Methanol,C00051,Glutathione (reduced),feasible
+C00011,CO2,C01438,Methane,infeasible
+C00033,Acetate,C01438,Methane,feasible
+C00058,Formate,C01438,Methane,feasible
+C00237,CO,C01438,Methane,infeasible
+C00048,Glyoxylate,C01438,Methane,feasible
+C00022,Pyruvate,C01438,Methane,feasible
+C01438,Methane,C01438,Methane,infeasible
+C00209,Oxalate,C01438,Methane,feasible
+C00067,Formaldehyde,C01438,Methane,feasible
+C00132,Methanol,C01438,Methane,feasible
+C00011,CO2,C00014,Ammonia,infeasible
+C00033,Acetate,C00014,Ammonia,feasible
+C00058,Formate,C00014,Ammonia,feasible
+C00237,CO,C00014,Ammonia,infeasible
+C00048,Glyoxylate,C00014,Ammonia,feasible
+C00022,Pyruvate,C00014,Ammonia,feasible
+C01438,Methane,C00014,Ammonia,infeasible
+C00209,Oxalate,C00014,Ammonia,feasible
+C00067,Formaldehyde,C00014,Ammonia,feasible
+C00132,Methanol,C00014,Ammonia,feasible
+C00011,CO2,,None,unknown
+C00033,Acetate,,None,feasible
+C00058,Formate,,None,feasible
+C00237,CO,,None,infeasible
+C00048,Glyoxylate,,None,feasible
+C00022,Pyruvate,,None,feasible
+C01438,Methane,,None,infeasible
+C00209,Oxalate,,None,feasible
+C00067,Formaldehyde,,None,feasible
+C00132,Methanol,,None,feasible

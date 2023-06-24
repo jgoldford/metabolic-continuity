@@ -1,0 +1,222 @@
+module,name,iteration_emergence
+M00580,"Pentose phosphate pathway, archaea, fructose 6P => ribose 5P",8
+M00916,"Pyridoxal-P biosynthesis, R5P + glyceraldehyde-3P + glutamine => pyridoxal-P",11
+M00338,"Cysteine biosynthesis, homocysteine + serine => cysteine",12
+M00118,"Glutathione biosynthesis, glutamate => glutathione",22
+M00005,"PRPP biosynthesis, ribose 5P => PRPP",22
+M00345,"Formaldehyde assimilation, ribulose monophosphate pathway",22
+M00170,"C4-dicarboxylic acid cycle, phosphoenolpyruvate carboxykinase type",22
+M00308,"Semi-phosphorylative Entner-Doudoroff pathway, gluconate => glycerate-3P",23
+M00115,"NAD biosynthesis, aspartate => quinolinate => NAD",23
+M00919,"Ectoine degradation, ectoine => aspartate",23
+M00020,"Serine biosynthesis, glycerate-3P => serine",23
+M00027,GABA (gamma-Aminobutyrate) shunt,23
+M00168,"CAM (Crassulacean acid metabolism), dark",24
+M00003,"Gluconeogenesis, oxaloacetate => fructose-6P",24
+M00171,"C4-dicarboxylic acid cycle, NAD - malic enzyme type",24
+M00169,"CAM (Crassulacean acid metabolism), light",24
+M00166,"Reductive pentose phosphate cycle, ribulose-5P => glyceraldehyde-3P",24
+M00008,"Entner-Doudoroff pathway, glucose-6P => glyceraldehyde-3P + pyruvate",24
+M00006,"Pentose phosphate pathway, oxidative phase, glucose 6P => ribulose 5P",24
+M00064,ADP-L-glycero-D-manno-heptose biosynthesis,25
+M00877,"Kanosamine biosynthesis, glucose 6-phosphate => kanosamine",25
+M00050,"Guanine ribonucleotide biosynthesis, IMP => GDP,GTP",25
+M00015,"Proline biosynthesis, glutamate => proline",25
+M00172,"C4-dicarboxylic acid cycle, NADP - malic enzyme type",25
+M00018,"Threonine biosynthesis, aspartate => homoserine => threonine",26
+M00061,"D-Glucuronate degradation, D-glucuronate => pyruvate + D-glyceraldehyde 3P",27
+M00875,"Staphyloferrin B biosynthesis, L-serine => staphyloferrin B",27
+M00527,"Lysine biosynthesis, DAP aminotransferase pathway, aspartate => lysine",27
+M00131,"Inositol phosphate metabolism, Ins(1,3,4,5)P4 => Ins(1,3,4)P3 => myo-inositol",27
+M00049,"Adenine ribonucleotide biosynthesis, IMP => ADP,ATP",27
+M00876,"Staphyloferrin A biosynthesis, L-ornithine => staphyloferrin A",28
+M00552,"D-galactonate degradation, De Ley-Doudoroff pathway, D-galactonate => glycerate-3P",28
+M00630,"D-Galacturonate degradation (fungi), D-galacturonate => glycerol",28
+M00631,"D-Galacturonate degradation (bacteria), D-galacturonate => pyruvate + D-glyceraldehyde 3P",28
+M00633,"Semi-phosphorylative Entner-Doudoroff pathway, gluconate/galactonate => glycerate-3P",28
+M00844,"Arginine biosynthesis, ornithine => arginine",28
+M00132,"Inositol phosphate metabolism, Ins(1,3,4)P3 => phytate",28
+M00309,"Non-phosphorylative Entner-Doudoroff pathway, gluconate/galactonate => glycerate",28
+M00029,Urea cycle,29
+M00134,"Polyamine biosynthesis, arginine => ornithine => putrescine",29
+M00843,"L-threo-Tetrahydrobiopterin biosynthesis, GTP => L-threo-BH4",30
+M00842,"Tetrahydrobiopterin biosynthesis, GTP => BH4",30
+M00609,"Cysteine biosynthesis, methionine => cysteine",32
+M00133,"Polyamine biosynthesis, arginine => agmatine => putrescine => spermidine",33
+M00175,"Nitrogen fixation, nitrogen => ammonia",33
+M00125,"Riboflavin biosynthesis, plants and bacteria, GTP => riboflavin/FMN/FAD",34
+M00555,"Betaine biosynthesis, choline => betaine",34
+M00047,Creatine pathway,34
+M00022,"Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate",35
+M00896,"Thiamine biosynthesis, archaea, AIR (+ NAD+) => TMP/TPP",35
+M00004,Pentose phosphate pathway (Pentose phosphate cycle),37
+M00007,"Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P",37
+M00358,Coenzyme M biosynthesis,37
+M00165,Reductive pentose phosphate cycle (Calvin cycle),37
+M00167,"Reductive pentose phosphate cycle, glyceraldehyde-3P => ribulose-5P",37
+M00344,"Formaldehyde assimilation, xylulose monophosphate pathway",37
+M00051,"Uridine monophosphate biosynthesis, glutamine (+ PRPP) => UMP",37
+M00899,"Thiamine salvage pathway, HMP/HET => TMP",37
+M00024,"Phenylalanine biosynthesis, chorismate => phenylpyruvate => phenylalanine",38
+M00040,"Tyrosine biosynthesis, chorismate => arogenate => tyrosine",38
+M00910,"Phenylalanine biosynthesis, chorismate => arogenate => phenylalanine",38
+M00025,"Tyrosine biosynthesis, chorismate => HPP => tyrosine",38
+M00840,"Tetrahydrofolate biosynthesis, mediated by ribA and trpF, GTP => THF",40
+M00841,"Tetrahydrofolate biosynthesis, mediated by PTPS, GTP => THF",40
+M00549,"Nucleotide sugar biosynthesis, glucose => UDP-glucose",40
+M00091,"Phosphatidylcholine (PC) biosynthesis, PE => PC",40
+M00554,"Nucleotide sugar biosynthesis, galactose => UDP-galactose",40
+M00931,"Menaquinone biosynthesis, modified futalosine pathway",40
+M00930,"Menaquinone biosynthesis, futalosine pathway",40
+M00126,"Tetrahydrofolate biosynthesis, GTP => THF",40
+M00632,"Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P",40
+M00023,"Tryptophan biosynthesis, chorismate => tryptophan",40
+M00019,"Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine",41
+M00570,"Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine",41
+M00935,Methanofuran biosynthesis,41
+M00052,"Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP",41
+M00119,"Pantothenate biosynthesis, valine/L-aspartate => pantothenate",42
+M00141,"C1-unit interconversion, eukaryotes",42
+M00048,"Inosine monophosphate biosynthesis, PRPP + glutamine => IMP",42
+M00092,"Phosphatidylethanolamine (PE) biosynthesis, ethanolamine => PE",42
+M00090,"Phosphatidylcholine (PC) biosynthesis, choline => PC",42
+M00140,"C1-unit interconversion, prokaryotes",42
+M00787,"Bacilysin biosynthesis, prephenate => bacilysin",43
+M00891,"Ditryptophenaline biosynthesis, tryptophan + phenylalanine => ditryptophenaline",43
+M00923,UDP-L-FucNAm biosynthesis,43
+M00046,"Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate",47
+M00120,"Coenzyme A biosynthesis, pantothenate => CoA",47
+M00914,"Coenzyme A biosynthesis, archaea, 2-oxoisovalerate => 4-phosphopantoate => CoA",47
+M00794,dTDP-6-deoxy-D-allose biosynthesis,48
+M00422,"Acetyl-CoA pathway, CO2 => acetyl-CoA",48
+M00793,dTDP-L-rhamnose biosynthesis,48
+M00021,"Cysteine biosynthesis, serine => cysteine",48
+M00433,"Lysine biosynthesis, 2-oxoglutarate => 2-oxoadipate",49
+M00525,"Lysine biosynthesis, acetyl-DAP pathway, aspartate => lysine",49
+M00579,"Phosphate acetyltransferase-acetate kinase pathway, acetyl-CoA => acetate",49
+M00796,dTDP-D-mycaminose biosynthesis,49
+M00795,dTDP-beta-L-noviose biosynthesis,49
+M00535,"Isoleucine biosynthesis, pyruvate => 2-oxobutanoate",49
+M00785,"Cycloserine biosynthesis, arginine/serine => cycloserine",49
+M00010,"Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate",49
+M00346,"Formaldehyde assimilation, serine pathway",49
+M00012,Glyoxylate cycle,49
+M00016,"Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine",49
+M00017,"Methionine biosynthesis, aspartate => homoserine => methionine",49
+M00028,"Ornithine biosynthesis, glutamate => ornithine",49
+M00033,"Ectoine biosynthesis, aspartate => ectoine",49
+M00173,Reductive citrate cycle (Arnon-Buchanan cycle),49
+M00845,"Arginine biosynthesis, glutamate => acetylcitrulline => arginine",49
+M00879,"Arginine succinyltransferase pathway, arginine => glutamate",50
+M00801,dTDP-L-olivose biosynthesis,50
+M00797,dTDP-D-desosamine biosynthesis,50
+M00798,dTDP-L-mycarose biosynthesis,51
+M00432,"Leucine biosynthesis, 2-oxoisovalerate => 2-oxoisocaproate",51
+M00088,"Ketone body biosynthesis, acetyl-CoA => acetoacetate/3-hydroxybutyrate/acetone",51
+M00802,dTDP-D-forosamine biosynthesis,51
+M00904,"Dapdiamides biosynthesis, L-2,3-diaminopropanoate => dapdiamide A/B/C",53
+M00608,"2-Oxocarboxylic acid chain extension, 2-oxoglutarate => 2-oxoadipate => 2-oxopimelate => 2-oxosuberate",54
+M00032,"Lysine degradation, lysine => saccharopine => acetoacetyl-CoA",55
+M00095,"C5 isoprenoid biosynthesis, mevalonate pathway",55
+M00013,"Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA",55
+M00849,"C5 isoprenoid biosynthesis, mevalonate pathway, archaea",55
+M00053,"Pyrimidine deoxyribonucleotide biosynthesis, CDP => dCTP",55
+M00577,"Biotin biosynthesis, BioW pathway, pimelate => pimeloyl-CoA => biotin",56
+M00176,"Assimilatory sulfate reduction, sulfate => H2S",57
+M00596,"Dissimilatory sulfate reduction, sulfate => H2S",57
+M00082,"Fatty acid biosynthesis, initiation",57
+M00418,"Toluene degradation, anaerobic, toluene => benzoyl-CoA",57
+M00595,"Thiosulfate oxidation by SOX complex, thiosulfate => sulfate",58
+M00829,"3,6-Dimethylsalicylyl-CoA biosynthesis, malonyl-CoA => 6-methylsalicylate => 3,6-dimethylsalicylyl-CoA",58
+M00836,"Coenzyme F430 biosynthesis, sirohydrochlorin => coenzyme F430",58
+M00847,"Heme biosynthesis, archaea, siroheme => heme",58
+M00001,"Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate",58
+ReductiveGlycineModule,,58
+M00365,"C10-C20 isoprenoid biosynthesis, archaea",58
+M00366,"C10-C20 isoprenoid biosynthesis, plants",58
+M00367,"C10-C20 isoprenoid biosynthesis, non-plant eukaryotes",58
+M00364,"C10-C20 isoprenoid biosynthesis, bacteria",58
+M00114,"Ascorbate biosynthesis, plants, fructose-6P => ascorbate",58
+M00116,"Menaquinone biosynthesis, chorismate (+ polyprenyl-PP) => menaquinol",58
+M00002,"Glycolysis, core module involving three-carbon compounds",58
+M00377,Reductive acetyl-CoA pathway (Wood-Ljungdahl pathway),59
+M00356,"Methanogenesis, methanol => methane",59
+Anammox,,59
+M00530,"Dissimilatory nitrate reduction, nitrate => ammonia",59
+M00620,"Incomplete reductive citrate cycle, acetyl-CoA => oxoglutarate",59
+M00563,"Methanogenesis, methylamine/dimethylamine/trimethylamine => methane",59
+M00529,"Denitrification, nitrate => nitrogen",59
+M00531,"Assimilatory nitrate reduction, nitrate => ammonia",60
+M00884,"Lipoic acid biosynthesis, octanoyl-CoA => dihydrolipoyl-E2",60
+M00881,"Lipoic acid biosynthesis, plants and bacteria, octanoyl-ACP => dihydrolipoyl-E2/H",61
+M00882,"Lipoic acid biosynthesis, eukaryotes, octanoyl-ACP => dihydrolipoyl-H",61
+M00932,"Phylloquinone biosynthesis, chorismate (+ phytyl-PP) => phylloquinol",62
+M00883,"Lipoic acid biosynthesis, animals and bacteria, octanoyl-ACP => dihydrolipoyl-H => dihydrolipoyl-E2",62
+M00034,Methionine salvage pathway,65
+M00124,"Pyridoxal-P biosynthesis, erythrose-4P => pyridoxal-P",65
+M00135,"GABA biosynthesis, eukaryotes, putrescine => GABA",65
+M00913,"Pantothenate biosynthesis, 2-oxoisovalerate/spermine => pantothenate",65
+M00915,"Caffeine degradation, caffeine => xanthine",65
+M00174,"Methane oxidation, methanotroph, methane => formaldehyde",65
+M00136,"GABA biosynthesis, prokaryotes, putrescine => GABA",65
+M00868,"Heme biosynthesis, animals and fungi, glycine => heme",65
+M00675,"Carbapenem-3-carboxylate biosynthesis, pyrroline-5-carboxylate + malonyl-CoA => carbapenem-3-carboxylate",65
+M00637,"Anthranilate degradation, anthranilate => catechol",65
+M00736,"Nocardicin A biosynthesis, L-pHPG + arginine + serine => nocardicin A",65
+M00638,"Salicylate degradation, salicylate => gentisate",65
+M00368,"Ethylene biosynthesis, methionine => ethylene",65
+M00776,"Pikromycin/methymycin biosynthesis, methylmalonyl-CoA + malonyl-CoA => narbonolide/10-deoxymethynolide => pikromycin/methymycin",65
+M00533,"Homoprotocatechuate degradation, homoprotocatechuate => 2-oxohept-3-enedioate",65
+M00568,"Catechol ortho-cleavage, catechol => 3-oxoadipate",65
+M00538,"Toluene degradation, toluene => benzoate",65
+M00624,"Terephthalate degradation, terephthalate => 3,4-dihydroxybenzoate",66
+M00622,"Nicotinate degradation, nicotinate => fumarate",66
+M00921,"Cyclooctatin biosynthesis, dimethylallyl-PP + isopentenyl-PP => cyclooctatin",66
+M00569,"Catechol meta-cleavage, catechol => acetyl-CoA / 4-methylcatechol => propanoyl-CoA",66
+M00894,"Cannabidiol biosynthesis, malonyl-CoA => cannabidiol/dronabinol",66
+M00042,"Catecholamine biosynthesis, tyrosine => dopamine => noradrenaline => adrenaline",66
+M00150,"Fumarate reductase, prokaryotes",67
+M00545,"Trans-cinnamate degradation, trans-cinnamate => acetyl-CoA",67
+M00374,Dicarboxylate-hydroxybutyrate cycle,67
+M00830,"Neocarzinostatin naphthoate moiety biosynthesis, malonyl-CoA => 2-hydroxy-5-methyl-1-naphthoate => 2-hydroxy-7-methoxy-5-methyl-1-naphthoyl-CoA",67
+M00138,"Flavonoid biosynthesis, naringenin => pelargonidin",67
+M00149,"Succinate dehydrogenase, prokaryotes",67
+M00933,"Plastoquinone biosynthesis, homogentisate + solanesyl-PP => plastoquinol",67
+M00661,"Paspaline biosynthesis, geranylgeranyl-PP + indoleglycerol phosphate => paspaline",68
+M00901,"Fumiquinazoline biosynthesis, tryptophan + alanine + anthranilate => fumiquinazoline",68
+M00912,"NAD biosynthesis, tryptophan => quinolinate => NAD",68
+M00038,"Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate",68
+M00674,"Clavaminate biosynthesis, arginine + glyceraldehyde-3P => clavaminate",68
+M00044,"Tyrosine degradation, tyrosine => homogentisate",68
+M00918,"Aerobactin biosynthesis, lysine => aerobactin",68
+M00890,"Roseoflavin biosynthesis, FMN => roseoflavin",68
+M00775,"Oleandomycin biosynthesis, malonyl-CoA + methylmalonyl-CoA => 8,8a-deoxyoleandolide => oleandomycin",68
+M00037,"Melatonin biosynthesis, animals, tryptophan => serotonin => melatonin",68
+M00774,"Erythromycin biosynthesis, propanoyl-CoA + methylmalonyl-CoA => deoxyerythronolide B => erythromycin A/B",69
+M00848,"Aurachin biosynthesis, anthranilate => aurachin A",69
+M00112,"Tocopherol/tocotorienol biosynthesis, homogentisate + phytyl/geranylgeranyl-PP => tocopherol/tocotorienol",69
+M00122,"Cobalamin biosynthesis, cobyrinate a,c-diamide => cobalamin",69
+M00934,"Mycinamicin biosynthesis, malonyl-CoA + methylmalonyl-CoA => protomycinolide IV => mycinamicin II",70
+M00773,"Tylosin biosynthesis, methylmalonyl-CoA + malonyl-CoA => tylactone => tylosin",70
+M00117,"Ubiquinone biosynthesis, prokaryotes, chorismate (+ polyprenyl-PP) => ubiquinol",70
+M00372,"Abscisic acid biosynthesis, beta-carotene => abscisic acid",70
+M00128,"Ubiquinone biosynthesis, eukaryotes, 4-hydroxybenzoate + polyprenyl-PP => ubiquinol",70
+M00740,Methylaspartate cycle,71
+M00567,"Methanogenesis, CO2 => methane",71
+M00741,"Propanoyl-CoA metabolism, propanoyl-CoA => succinyl-CoA",71
+M00528,"Nitrification, ammonia => nitrite",71
+M00375,Hydroxypropionate-hydroxybutylate cycle,71
+M00376,3-Hydroxypropionate bi-cycle,71
+M00357,"Methanogenesis, acetate => methane",71
+M00804,"Complete nitrification, comammox, ammonia => nitrite => nitrate",71
+M00900,"Crocin biosynthesis, crocetin => crocin",71
+M00373,Ethylmalonyl pathway,72
+M00142,"NADH:ubiquinone oxidoreductase, mitochondria",72
+M00144,"NADH:quinone oxidoreductase, prokaryotes",72
+M00145,"NAD(P)H:quinone oxidoreductase, chloroplasts and cyanobacteria",72
+M00903,"Fosfomycin biosynthesis, phosphoenolpyruvate => fosfomycin",73
+M00087,beta-Oxidation,75
+M00086,"beta-Oxidation, acyl-CoA synthesis",76
+M00100,Sphingosine degradation,78
+M00066,Lactosylceramide biosynthesis,80
+M00113,Jasmonic acid biosynthesis,100

@@ -1,0 +1,159 @@
+Supplementary Dataset 1 - Spreadsheet E - Feasibility of steady-state production of putative proto-cells with different oxidants and reductants - Data for generating Fig.4,,,,
+,,,,
+oxidant,oxidant_name,reductant,reductant_name,biomass feasibility
+C00059,Sulfate,C00282,H2,feasible
+C00320,Thiosulfate,C00282,H2,feasible
+C14819,Iron (III),C00282,H2,feasible
+C19611,Manganese (III),C00282,H2,feasible
+C00007,Oxygen,C00282,H2,feasible
+C00088,Nitrite,C00282,H2,feasible
+C00244,Nitrate,C00282,H2,feasible
+C00139,Oxidized ferredoxin,C00282,H2,feasible
+C00125,Ferroxytochome (oxidized),C00282,H2,feasible
+C00127,Glutathione disulfide,C00282,H2,feasible
+C00343,Thioredoxin disulfide,C00282,H2,feasible
+C00011,Carbon dioxide,C00282,H2,feasible
+,None,C00282,H2,feasible
+C00059,Sulfate,C00283,Hydrogen sulfide,infeasible
+C00320,Thiosulfate,C00283,Hydrogen sulfide,infeasible
+C14819,Iron (III),C00283,Hydrogen sulfide,infeasible
+C19611,Manganese (III),C00283,Hydrogen sulfide,infeasible
+C00007,Oxygen,C00283,Hydrogen sulfide,infeasible
+C00088,Nitrite,C00283,Hydrogen sulfide,infeasible
+C00244,Nitrate,C00283,Hydrogen sulfide,infeasible
+C00139,Oxidized ferredoxin,C00283,Hydrogen sulfide,unknown
+C00125,Ferroxytochome (oxidized),C00283,Hydrogen sulfide,infeasible
+C00127,Glutathione disulfide,C00283,Hydrogen sulfide,infeasible
+C00343,Thioredoxin disulfide,C00283,Hydrogen sulfide,infeasible
+C00011,Carbon dioxide,C00283,Hydrogen sulfide,infeasible
+,None,C00283,Hydrogen sulfide,infeasible
+C00059,Sulfate,C19610,Manganese (II),infeasible
+C00320,Thiosulfate,C19610,Manganese (II),infeasible
+C14819,Iron (III),C19610,Manganese (II),infeasible
+C19611,Manganese (III),C19610,Manganese (II),infeasible
+C00007,Oxygen,C19610,Manganese (II),infeasible
+C00088,Nitrite,C19610,Manganese (II),infeasible
+C00244,Nitrate,C19610,Manganese (II),infeasible
+C00139,Oxidized ferredoxin,C19610,Manganese (II),infeasible
+C00125,Ferroxytochome (oxidized),C19610,Manganese (II),infeasible
+C00127,Glutathione disulfide,C19610,Manganese (II),infeasible
+C00343,Thioredoxin disulfide,C19610,Manganese (II),infeasible
+C00011,Carbon dioxide,C19610,Manganese (II),infeasible
+,None,C19610,Manganese (II),infeasible
+C00059,Sulfate,C14818,Iron (II),infeasible
+C00320,Thiosulfate,C14818,Iron (II),infeasible
+C14819,Iron (III),C14818,Iron (II),infeasible
+C19611,Manganese (III),C14818,Iron (II),infeasible
+C00007,Oxygen,C14818,Iron (II),infeasible
+C00088,Nitrite,C14818,Iron (II),infeasible
+C00244,Nitrate,C14818,Iron (II),infeasible
+C00139,Oxidized ferredoxin,C14818,Iron (II),infeasible
+C00125,Ferroxytochome (oxidized),C14818,Iron (II),infeasible
+C00127,Glutathione disulfide,C14818,Iron (II),infeasible
+C00343,Thioredoxin disulfide,C14818,Iron (II),infeasible
+C00011,Carbon dioxide,C14818,Iron (II),infeasible
+,None,C14818,Iron (II),infeasible
+C00059,Sulfate,C00001,Water,infeasible
+C00320,Thiosulfate,C00001,Water,infeasible
+C14819,Iron (III),C00001,Water,infeasible
+C19611,Manganese (III),C00001,Water,infeasible
+C00007,Oxygen,C00001,Water,infeasible
+C00088,Nitrite,C00001,Water,infeasible
+C00244,Nitrate,C00001,Water,infeasible
+C00139,Oxidized ferredoxin,C00001,Water,infeasible
+C00125,Ferroxytochome (oxidized),C00001,Water,infeasible
+C00127,Glutathione disulfide,C00001,Water,infeasible
+C00343,Thioredoxin disulfide,C00001,Water,infeasible
+C00011,Carbon dioxide,C00001,Water,infeasible
+,None,C00001,Water,infeasible
+C00059,Sulfate,C00138,Reduced ferredoxin,feasible
+C00320,Thiosulfate,C00138,Reduced ferredoxin,feasible
+C14819,Iron (III),C00138,Reduced ferredoxin,feasible
+C19611,Manganese (III),C00138,Reduced ferredoxin,feasible
+C00007,Oxygen,C00138,Reduced ferredoxin,feasible
+C00088,Nitrite,C00138,Reduced ferredoxin,feasible
+C00244,Nitrate,C00138,Reduced ferredoxin,feasible
+C00139,Oxidized ferredoxin,C00138,Reduced ferredoxin,feasible
+C00125,Ferroxytochome (oxidized),C00138,Reduced ferredoxin,feasible
+C00127,Glutathione disulfide,C00138,Reduced ferredoxin,feasible
+C00343,Thioredoxin disulfide,C00138,Reduced ferredoxin,feasible
+C00011,Carbon dioxide,C00138,Reduced ferredoxin,feasible
+,None,C00138,Reduced ferredoxin,feasible
+C00059,Sulfate,C00126,Ferroxytochome (reduced),infeasible
+C00320,Thiosulfate,C00126,Ferroxytochome (reduced),infeasible
+C14819,Iron (III),C00126,Ferroxytochome (reduced),infeasible
+C19611,Manganese (III),C00126,Ferroxytochome (reduced),infeasible
+C00007,Oxygen,C00126,Ferroxytochome (reduced),infeasible
+C00088,Nitrite,C00126,Ferroxytochome (reduced),infeasible
+C00244,Nitrate,C00126,Ferroxytochome (reduced),infeasible
+C00139,Oxidized ferredoxin,C00126,Ferroxytochome (reduced),infeasible
+C00125,Ferroxytochome (oxidized),C00126,Ferroxytochome (reduced),infeasible
+C00127,Glutathione disulfide,C00126,Ferroxytochome (reduced),infeasible
+C00343,Thioredoxin disulfide,C00126,Ferroxytochome (reduced),infeasible
+C00011,Carbon dioxide,C00126,Ferroxytochome (reduced),infeasible
+,None,C00126,Ferroxytochome (reduced),infeasible
+C00059,Sulfate,C00342,Thioredoxin,feasible
+C00320,Thiosulfate,C00342,Thioredoxin,feasible
+C14819,Iron (III),C00342,Thioredoxin,feasible
+C19611,Manganese (III),C00342,Thioredoxin,feasible
+C00007,Oxygen,C00342,Thioredoxin,feasible
+C00088,Nitrite,C00342,Thioredoxin,feasible
+C00244,Nitrate,C00342,Thioredoxin,feasible
+C00139,Oxidized ferredoxin,C00342,Thioredoxin,feasible
+C00125,Ferroxytochome (oxidized),C00342,Thioredoxin,feasible
+C00127,Glutathione disulfide,C00342,Thioredoxin,feasible
+C00343,Thioredoxin disulfide,C00342,Thioredoxin,feasible
+C00011,Carbon dioxide,C00342,Thioredoxin,feasible
+,None,C00342,Thioredoxin,feasible
+C00059,Sulfate,C00051,Glutathione (reduced),feasible
+C00320,Thiosulfate,C00051,Glutathione (reduced),feasible
+C14819,Iron (III),C00051,Glutathione (reduced),feasible
+C19611,Manganese (III),C00051,Glutathione (reduced),feasible
+C00007,Oxygen,C00051,Glutathione (reduced),feasible
+C00088,Nitrite,C00051,Glutathione (reduced),feasible
+C00244,Nitrate,C00051,Glutathione (reduced),feasible
+C00139,Oxidized ferredoxin,C00051,Glutathione (reduced),feasible
+C00125,Ferroxytochome (oxidized),C00051,Glutathione (reduced),feasible
+C00127,Glutathione disulfide,C00051,Glutathione (reduced),feasible
+C00343,Thioredoxin disulfide,C00051,Glutathione (reduced),feasible
+C00011,Carbon dioxide,C00051,Glutathione (reduced),feasible
+,None,C00051,Glutathione (reduced),feasible
+C00059,Sulfate,C01438,Methane,infeasible
+C00320,Thiosulfate,C01438,Methane,infeasible
+C14819,Iron (III),C01438,Methane,infeasible
+C19611,Manganese (III),C01438,Methane,infeasible
+C00007,Oxygen,C01438,Methane,feasible
+C00088,Nitrite,C01438,Methane,infeasible
+C00244,Nitrate,C01438,Methane,infeasible
+C00139,Oxidized ferredoxin,C01438,Methane,infeasible
+C00125,Ferroxytochome (oxidized),C01438,Methane,infeasible
+C00127,Glutathione disulfide,C01438,Methane,infeasible
+C00343,Thioredoxin disulfide,C01438,Methane,infeasible
+C00011,Carbon dioxide,C01438,Methane,infeasible
+,None,C01438,Methane,infeasible
+C00059,Sulfate,C00014,Ammonia,infeasible
+C00320,Thiosulfate,C00014,Ammonia,infeasible
+C14819,Iron (III),C00014,Ammonia,infeasible
+C19611,Manganese (III),C00014,Ammonia,infeasible
+C00007,Oxygen,C00014,Ammonia,infeasible
+C00088,Nitrite,C00014,Ammonia,infeasible
+C00244,Nitrate,C00014,Ammonia,infeasible
+C00139,Oxidized ferredoxin,C00014,Ammonia,infeasible
+C00125,Ferroxytochome (oxidized),C00014,Ammonia,infeasible
+C00127,Glutathione disulfide,C00014,Ammonia,infeasible
+C00343,Thioredoxin disulfide,C00014,Ammonia,infeasible
+C00011,Carbon dioxide,C00014,Ammonia,infeasible
+,None,C00014,Ammonia,infeasible
+C00059,Sulfate,,None,infeasible
+C00320,Thiosulfate,,None,infeasible
+C14819,Iron (III),,None,infeasible
+C19611,Manganese (III),,None,infeasible
+C00007,Oxygen,,None,infeasible
+C00088,Nitrite,,None,infeasible
+C00244,Nitrate,,None,infeasible
+C00139,Oxidized ferredoxin,,None,infeasible
+C00125,Ferroxytochome (oxidized),,None,infeasible
+C00127,Glutathione disulfide,,None,infeasible
+C00343,Thioredoxin disulfide,,None,infeasible
+C00011,Carbon dioxide,,None,infeasible
+,None,,None,infeasible
