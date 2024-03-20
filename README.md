@@ -1,5 +1,5 @@
 # Metabolic Continuity
- Code for Goldford, J.E., Smith, H.B., Longo, L.M. Wing, B.A. & McGlynn, S.M.. Primitive purine biosynthesis connects ancient geochemistry to modern metabolism.  
+ Code for Goldford, J.E., Smith, H.B., Longo, L.M. Wing, B.A. & McGlynn, S.M.. Primitive purine biosynthesis connects ancient geochemistry to modern metabolism. _Nature Ecology & Evolution_. 2024. https://www.nature.com/articles/s41559-024-02361-4
 
 ## Installation
 
